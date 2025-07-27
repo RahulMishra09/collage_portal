@@ -1,6 +1,6 @@
 // src/pages/Assignment/hooks/useAssignmentSubmission.ts
 import { useState, useCallback } from 'react';
-import { submitAssignment } from '../api';
+import { submitAssignment } from '../api/submitAssignment';
 import type { Assignment, AssignmentSubmission } from '../types';
 import type { UseAssignmentSubmissionReturn } from './types';
 

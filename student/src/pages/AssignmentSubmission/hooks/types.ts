@@ -1,5 +1,5 @@
 // src/pages/Assignment/hooks/types.ts
-import type { Assignment, Subject, AssignmentFilter, AssignmentStats } from '../types';
+import type { Assignment, Subject, AssignmentFilter, AssignmentStats } from '../types/index';
 
 export interface UseAssignmentsReturn {
   assignments: Assignment[];

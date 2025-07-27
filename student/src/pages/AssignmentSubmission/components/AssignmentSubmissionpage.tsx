@@ -9,7 +9,7 @@ import { Search, Filter, RefreshCw, SortAsc, SortDesc, AlertCircle, Wifi, WifiOf
 import AssignmentCard from './AssignmentCard';
 import AssignmentSubmissionModal from './AssignmentSubmissionModal';
 import { useAssignments } from '../hooks/useAssignments';
-import { useAssignmentFilters } from '../hooks/useAssignmentFilter';
+import { useAssignmentFilters } from '../hooks/useAssignmentFilters'; // Fixed typo here
 import { useAssignmentSubmission } from '../hooks/useAssignmentSubmission';
 import type { Assignment } from '../types';
 

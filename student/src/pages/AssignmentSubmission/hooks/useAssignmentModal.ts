@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import { fetchAssignments, fetchSubjects, fetchConstants } from '../api/assignmentApi';
-import type { Assignment, Subject } from '../types';
+import type { Assignment, Subject } from '../types/index';
 import { toast } from 'sonner';
 
 export function useAssignments() {

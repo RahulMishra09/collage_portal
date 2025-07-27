@@ -1,7 +1,7 @@
 // src/pages/Assignment/hooks/useFileValidation.ts
 import { useState, useCallback, useEffect } from 'react';
 import { formatFileSize } from '../utils';
-import type { Assignment } from '../types';
+import type { Assignment } from '../types/index';
 import type { UseFileValidationReturn } from './types';
 
 interface ValidationError {
