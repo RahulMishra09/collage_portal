@@ -51,5 +51,37 @@ export const API_ENDPOINTS = {
     types: 'http://localhost:3000/api/students/noc/types', // Placeholder
     download: (requestId: string) => `http://localhost:3000/api/students/noc/download/${requestId}` // Placeholder
   },
+  assignments: {
+    // Core assignment operations
+    list: '/api/assignments',
+    getById: (id: string) => `/api/assignments/${id}`,
+    create: '/api/assignments',
+    update: (id: string) => `/api/assignments/${id}`,
+    delete: (id: string) => `/api/assignments/${id}`,
+    
+    // Submission operations
+    submit: '/api/assignments/submit',
+    updateSubmission: '/api/assignments/submissions/update',
+    deleteSubmission: (submissionId: string) => `/api/assignments/submissions/${submissionId}`,
+    userSubmissions: (assignmentId: string) => `/api/assignments/${assignmentId}/my-submissions`,
+    submissions: '/api/assignments/submissions',
+    submissionsByAssignment: (assignmentId: string) => `/api/assignments/${assignmentId}/submissions`,
+    
+    // File operations
+    downloadFile: (assignmentId: string, fileName: string) => `/api/assignments/${assignmentId}/files/${fileName}`,
+    downloadSubmissionFile: (submissionId: string, fileName: string) => `/api/assignments/submissions/${submissionId}/files/${fileName}`,
+    
+    // Supporting data
+    subjects: '/api/assignments/subjects',
+    constants: '/api/assignments/constants',
+    
+    // Rubrics and grading
+    rubrics: '/api/assignments/rubrics',
+    rubricByAssignment: (assignmentId: string) => `/api/assignments/${assignmentId}/rubrics`,
+    
+    // Eligibility and validation
+    checkEligibility: (assignmentId: string) => `/api/assignments/${assignmentId}/eligibility`,
+    
+  },
   // Add more modules as needed
 }; 

@@ -1,0 +1,63 @@
+[
+  {
+    "code": "CS101",
+    "name": "Data Structures",
+    "semester": "5",
+    "credits": 4
+  },
+  {
+    "code": "CS102",
+    "name": "Algorithm Design",
+    "semester": "5",
+    "credits": 3
+  },
+  {
+    "code": "CS103",
+    "name": "Database Systems",
+    "semester": "5",
+    "credits": 4
+  },
+  {
+    "code": "CS104",
+    "name": "Web Development",
+    "semester": "5",
+    "credits": 3
+  },
+  {
+    "code": "CS105",
+    "name": "Software Engineering",
+    "semester": "5",
+    "credits": 4
+  },
+  {
+    "code": "CS106",
+    "name": "Computer Networks",
+    "semester": "5",
+    "credits": 3
+  },
+  {
+    "code": "CS107",
+    "name": "Artificial Intelligence",
+    "semester": "6",
+    "credits": 4
+  },
+  {
+    "code": "CS108",
+    "name": "Operating Systems",
+    "semester": "6",
+    "credits": 4
+  },
+  {
+    "code": "CS109",
+    "name": "Computer Graphics",
+    "semester": "6",
+    "credits": 3
+  },
+  {
+    "code": "CS110",
+    "name": "Distributed Systems",
+    "semester": "7",
+    "credits": 4
+  }
+]
+

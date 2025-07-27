@@ -1,0 +1,56 @@
+[
+  {
+    "assignmentId": "2",
+    "submissionId": "sub_001",
+    "studentId": "ENR001",
+    "submittedAt": "2025-07-30T14:30:00Z",
+    "status": "submitted",
+    "files": [
+      {
+        "id": "file1",
+        "originalName": "sorting_analysis.pdf",
+        "storedName": "sub_001_file1.pdf",
+        "size": 2359296,
+        "type": "application/pdf",
+        "uploadedAt": "2025-07-30T14:30:00Z",
+        "downloadUrl": "/api/files/download/file1"
+      }
+    ],
+    "comments": "This report includes detailed analysis of 6 sorting algorithms with performance graphs and complexity analysis.",
+    "ipAddress": "192.168.1.100",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "assignmentId": "3",
+    "submissionId": "sub_002",
+    "studentId": "ENR001",
+    "submittedAt": "2025-07-24T20:15:00Z",
+    "status": "graded",
+    "grade": 95,
+    "feedback": "Excellent work! The database design is well-normalized and includes all necessary constraints.",
+    "gradedAt": "2025-07-26T10:30:00Z",
+    "gradedBy": "Dr. Davis",
+    "files": [
+      {
+        "id": "file2",
+        "originalName": "ecommerce_schema.sql",
+        "storedName": "sub_002_file1.sql",
+        "size": 1258291,
+        "type": "application/sql",
+        "uploadedAt": "2025-07-24T20:15:00Z",
+        "downloadUrl": "/api/files/download/file2"
+      },
+      {
+        "id": "file3",
+        "originalName": "design_document.pdf",
+        "storedName": "sub_002_file2.pdf",
+        "size": 3251200,
+        "type": "application/pdf",
+        "uploadedAt": "2025-07-24T20:15:00Z",
+        "downloadUrl": "/api/files/download/file3"
+      }
+    ],
+    "comments": "Attached SQL schema file contains all table definitions, constraints, and sample data. The PDF document explains the design decisions and includes the ER diagram."
+  }
+]
+

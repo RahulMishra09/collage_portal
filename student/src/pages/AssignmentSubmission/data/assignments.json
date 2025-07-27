@@ -1,0 +1,198 @@
+
+[
+  {
+    "id": "1",
+    "title": "Binary Tree Implementation",
+    "subject": "CS101",
+    "subjectName": "Data Structures",
+    "description": "Implement a binary search tree with insert, delete, and search operations. Include proper documentation and test cases that demonstrate all functionality.",
+    "instructions": "Submit your code with proper comments and include comprehensive test cases that demonstrate all operations. Your implementation should handle edge cases and include time complexity analysis.",
+    "dueDate": "2025-08-05",
+    "dueTime": "23:59",
+    "maxMarks": 100,
+    "fileTypes": [".java", ".cpp", ".py", ".pdf"],
+    "maxFileSize": "10MB",
+    "status": "pending",
+    "createdAt": "2025-07-20T10:00:00Z",
+    "professorName": "Dr. Smith",
+    "rubric": [
+      {
+        "criteria": "Code Quality",
+        "maxPoints": 30,
+        "description": "Clean, readable, and well-commented code"
+      },
+      {
+        "criteria": "Functionality",
+        "maxPoints": 40,
+        "description": "All operations work correctly"
+      },
+      {
+        "criteria": "Test Cases",
+        "maxPoints": 20,
+        "description": "Comprehensive test coverage"
+      },
+      {
+        "criteria": "Documentation",
+        "maxPoints": 10,
+        "description": "Clear documentation and README"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Sorting Algorithm Analysis",
+    "subject": "CS102",
+    "subjectName": "Algorithm Design",
+    "description": "Compare the performance of different sorting algorithms and provide a detailed analysis report with empirical data.",
+    "instructions": "Include time complexity analysis, space complexity, performance graphs, and empirical testing results. Compare at least 5 different sorting algorithms.",
+    "dueDate": "2025-08-03",
+    "dueTime": "18:00",
+    "maxMarks": 75,
+    "fileTypes": [".pdf", ".doc", ".docx"],
+    "maxFileSize": "5MB",
+    "status": "submitted",
+    "createdAt": "2025-07-15T14:00:00Z",
+    "professorName": "Dr. Johnson",
+    "submittedAt": "2025-07-30T14:30:00Z",
+    "submittedFiles": [
+      {
+        "id": "file1",
+        "name": "sorting_analysis.pdf",
+        "size": "2.3MB",
+        "type": "application/pdf",
+        "uploadedAt": "2025-07-30T14:30:00Z",
+        "downloadUrl": "/api/files/download/file1"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Database Design Project",
+    "subject": "CS103",
+    "subjectName": "Database Systems",
+    "description": "Design a normalized database schema for an e-commerce system with proper relationships and constraints.",
+    "instructions": "Include ER diagram, normalized tables up to 3NF, sample data insertion scripts, and query examples. Document your design decisions.",
+    "dueDate": "2025-07-25",
+    "dueTime": "23:59",
+    "maxMarks": 120,
+    "fileTypes": [".sql", ".pdf", ".docx"],
+    "maxFileSize": "15MB",
+    "status": "graded",
+    "createdAt": "2025-07-10T09:00:00Z",
+    "professorName": "Dr. Davis",
+    "submittedAt": "2025-07-24T20:15:00Z",
+    "grade": 95,
+    "feedback": "Excellent work! The database design is well-normalized and includes all necessary constraints. The ER diagram is clear and comprehensive. Minor suggestion: consider adding more indexes for performance optimization.",
+    "submittedFiles": [
+      {
+        "id": "file2",
+        "name": "ecommerce_schema.sql",
+        "size": "1.2MB",
+        "type": "application/sql",
+        "uploadedAt": "2025-07-24T20:15:00Z",
+        "downloadUrl": "/api/files/download/file2"
+      },
+      {
+        "id": "file3",
+        "name": "design_document.pdf",
+        "size": "3.1MB",
+        "type": "application/pdf",
+        "uploadedAt": "2025-07-24T20:15:00Z",
+        "downloadUrl": "/api/files/download/file3"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "React Web Application",
+    "subject": "CS104",
+    "subjectName": "Web Development",
+    "description": "Build a full-stack web application using React, Node.js, and MongoDB. The application should include user authentication and CRUD operations.",
+    "instructions": "Submit source code, deployment instructions, and a demo video. Include unit tests and API documentation.",
+    "dueDate": "2025-08-10",
+    "dueTime": "23:59",
+    "maxMarks": 150,
+    "fileTypes": [".zip", ".tar.gz", ".pdf", ".mp4"],
+    "maxFileSize": "50MB",
+    "status": "pending",
+    "createdAt": "2025-07-25T11:00:00Z",
+    "professorName": "Dr. Wilson",
+    "rubric": [
+      {
+        "criteria": "Frontend Implementation",
+        "maxPoints": 40,
+        "description": "React components, UI/UX design, and responsiveness"
+      },
+      {
+        "criteria": "Backend Implementation",
+        "maxPoints": 40,
+        "description": "API design, database integration, and authentication"
+      },
+      {
+        "criteria": "Code Quality",
+        "maxPoints": 30,
+        "description": "Clean code, proper structure, and documentation"
+      },
+      {
+        "criteria": "Testing & Deployment",
+        "maxPoints": 25,
+        "description": "Unit tests, integration tests, and deployment guide"
+      },
+      {
+        "criteria": "Demo Video",
+        "maxPoints": 15,
+        "description": "Clear demonstration of all features"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Software Testing Report",
+    "subject": "CS105",
+    "subjectName": "Software Engineering",
+    "description": "Create a comprehensive testing strategy and execute test cases for a given software project.",
+    "instructions": "Include test plan, test cases, bug reports, and testing metrics. Use both manual and automated testing approaches.",
+    "dueDate": "2025-07-28",
+    "dueTime": "17:00",
+    "maxMarks": 80,
+    "fileTypes": [".pdf", ".xlsx", ".docx"],
+    "maxFileSize": "10MB",
+    "status": "overdue",
+    "createdAt": "2025-07-12T15:30:00Z",
+    "professorName": "Dr. Brown"
+  },
+  {
+    "id": "6",
+    "title": "Network Security Analysis",
+    "subject": "CS106",
+    "subjectName": "Computer Networks",
+    "description": "Analyze network vulnerabilities and propose security measures for a corporate network infrastructure.",
+    "instructions": "Include vulnerability assessment, risk analysis, and detailed security recommendations with implementation plans.",
+    "dueDate": "2025-08-12",
+    "dueTime": "23:59",
+    "maxMarks": 90,
+    "fileTypes": [".pdf", ".docx", ".pptx"],
+    "maxFileSize": "20MB",
+    "status": "pending",
+    "createdAt": "2025-07-28T09:15:00Z",
+    "professorName": "Dr. Garcia"
+  },
+  {
+    "id": "7",
+    "title": "Machine Learning Model",
+    "subject": "CS107",
+    "subjectName": "Artificial Intelligence",
+    "description": "Develop and train a machine learning model for image classification using deep learning techniques.",
+    "instructions": "Submit Python code, trained model, dataset analysis, and performance evaluation report.",
+    "dueDate": "2025-08-15",
+    "dueTime": "23:59",
+    "maxMarks": 110,
+    "fileTypes": [".py", ".ipynb", ".pdf", ".h5", ".pkl"],
+    "maxFileSize": "100MB",
+    "status": "pending",
+    "createdAt": "2025-07-30T10:00:00Z",
+    "professorName": "Dr. Chen"
+  }
+]
+
+

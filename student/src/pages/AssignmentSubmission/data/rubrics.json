@@ -1,0 +1,83 @@
+{
+  "programming": [
+    {
+      "criteria": "Code Quality",
+      "maxPoints": 25,
+      "description": "Clean, readable, and well-structured code with proper naming conventions"
+    },
+    {
+      "criteria": "Functionality",
+      "maxPoints": 35,
+      "description": "Code runs without errors and meets all specified requirements"
+    },
+    {
+      "criteria": "Testing",
+      "maxPoints": 20,
+      "description": "Comprehensive test cases covering edge cases and normal scenarios"
+    },
+    {
+      "criteria": "Documentation",
+      "maxPoints": 15,
+      "description": "Clear comments, README file, and code documentation"
+    },
+    {
+      "criteria": "Innovation",
+      "maxPoints": 5,
+      "description": "Creative solutions and additional features beyond requirements"
+    }
+  ],
+  "research": [
+    {
+      "criteria": "Content Quality",
+      "maxPoints": 40,
+      "description": "Accurate, relevant, and comprehensive content with proper depth"
+    },
+    {
+      "criteria": "Research & Sources",
+      "maxPoints": 25,
+      "description": "Use of credible sources and proper citation methodology"
+    },
+    {
+      "criteria": "Analysis & Critical Thinking",
+      "maxPoints": 20,
+      "description": "Demonstrates analytical thinking and draws meaningful conclusions"
+    },
+    {
+      "criteria": "Organization & Structure",
+      "maxPoints": 10,
+      "description": "Logical flow, clear structure, and proper formatting"
+    },
+    {
+      "criteria": "Writing Quality",
+      "maxPoints": 5,
+      "description": "Grammar, spelling, and professional writing style"
+    }
+  ],
+  "project": [
+    {
+      "criteria": "Requirements Fulfillment",
+      "maxPoints": 30,
+      "description": "Project meets all specified requirements and objectives"
+    },
+    {
+      "criteria": "Technical Implementation",
+      "maxPoints": 30,
+      "description": "Proper use of technologies and implementation quality"
+    },
+    {
+      "criteria": "User Experience",
+      "maxPoints": 15,
+      "description": "Intuitive interface and good user experience design"
+    },
+    {
+      "criteria": "Testing & Quality Assurance",
+      "maxPoints": 15,
+      "description": "Thorough testing and bug-free implementation"
+    },
+    {
+      "criteria": "Documentation & Presentation",
+      "maxPoints": 10,
+      "description": "Clear documentation and effective project presentation"
+    }
+  ]
+}
