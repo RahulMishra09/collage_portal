@@ -21,6 +21,7 @@ import React, { lazy } from 'react';
 import ProfilePage from '@/pages/Profile';
 import AttendanceDetailed from '@/pages/Attendance';
 import NOCRequestPage from '@/pages/NOC/components/noc-request-page';
+import AssignmentSubmission from '@/pages/AssignmentSubmission';
 
 const MentorMenteePage = lazy(() => import("@/pages/MentorMentee"));
 
@@ -65,6 +66,7 @@ const AppRoutes: FC = () => {
 
                 <Route path="/grade" element={<GradePage/>}/>
                 <Route path="/noc" element={<NOCRequestPage/>}/>
+                <Route path="/assignment-submission" element={<AssignmentSubmission/>}/>
 
 
                 <Route path="*" element={<Navigate to="/"/>}/>

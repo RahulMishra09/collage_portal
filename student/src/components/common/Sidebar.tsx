@@ -13,7 +13,8 @@ import {
     Book,
     DollarSign,
     Library,
-    FolderOpen
+    FolderOpen,
+    FilePlus // Add this import for the assignment icon
 } from 'lucide-react';
 
 // Default sidebar items with Lucide icons
@@ -99,6 +100,11 @@ const defaultSidebarItems: SidebarSection[] = [
         label: 'Grade',
         icon: FolderOpen,
         link: '/grade'
+    },
+    {
+        label: 'Assignment Submission',
+        icon: FilePlus, // Use any icon you prefer
+        link: '/assignment-submission'
     },
 
 ];

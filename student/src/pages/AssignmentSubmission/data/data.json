@@ -1,0 +1,460 @@
+// src/pages/Assignment/data/assignments.json
+[
+  {
+    "id": "1",
+    "title": "Binary Tree Implementation",
+    "subject": "CS101",
+    "subjectName": "Data Structures",
+    "description": "Implement a binary search tree with insert, delete, and search operations. Include proper documentation and test cases that demonstrate all functionality.",
+    "instructions": "Submit your code with proper comments and include comprehensive test cases that demonstrate all operations. Your implementation should handle edge cases and include time complexity analysis.",
+    "dueDate": "2025-08-05",
+    "dueTime": "23:59",
+    "maxMarks": 100,
+    "fileTypes": [".java", ".cpp", ".py", ".pdf"],
+    "maxFileSize": "10MB",
+    "status": "pending",
+    "createdAt": "2025-07-20T10:00:00Z",
+    "professorName": "Dr. Smith",
+    "rubric": [
+      {
+        "criteria": "Code Quality",
+        "maxPoints": 30,
+        "description": "Clean, readable, and well-commented code"
+      },
+      {
+        "criteria": "Functionality",
+        "maxPoints": 40,
+        "description": "All operations work correctly"
+      },
+      {
+        "criteria": "Test Cases",
+        "maxPoints": 20,
+        "description": "Comprehensive test coverage"
+      },
+      {
+        "criteria": "Documentation",
+        "maxPoints": 10,
+        "description": "Clear documentation and README"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Sorting Algorithm Analysis",
+    "subject": "CS102",
+    "subjectName": "Algorithm Design",
+    "description": "Compare the performance of different sorting algorithms and provide a detailed analysis report with empirical data.",
+    "instructions": "Include time complexity analysis, space complexity, performance graphs, and empirical testing results. Compare at least 5 different sorting algorithms.",
+    "dueDate": "2025-08-03",
+    "dueTime": "18:00",
+    "maxMarks": 75,
+    "fileTypes": [".pdf", ".doc", ".docx"],
+    "maxFileSize": "5MB",
+    "status": "submitted",
+    "createdAt": "2025-07-15T14:00:00Z",
+    "professorName": "Dr. Johnson",
+    "submittedAt": "2025-07-30T14:30:00Z",
+    "submittedFiles": [
+      {
+        "id": "file1",
+        "name": "sorting_analysis.pdf",
+        "size": "2.3MB",
+        "type": "application/pdf",
+        "uploadedAt": "2025-07-30T14:30:00Z",
+        "downloadUrl": "/api/files/download/file1"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Database Design Project",
+    "subject": "CS103",
+    "subjectName": "Database Systems",
+    "description": "Design a normalized database schema for an e-commerce system with proper relationships and constraints.",
+    "instructions": "Include ER diagram, normalized tables up to 3NF, sample data insertion scripts, and query examples. Document your design decisions.",
+    "dueDate": "2025-07-25",
+    "dueTime": "23:59",
+    "maxMarks": 120,
+    "fileTypes": [".sql", ".pdf", ".docx"],
+    "maxFileSize": "15MB",
+    "status": "graded",
+    "createdAt": "2025-07-10T09:00:00Z",
+    "professorName": "Dr. Davis",
+    "submittedAt": "2025-07-24T20:15:00Z",
+    "grade": 95,
+    "feedback": "Excellent work! The database design is well-normalized and includes all necessary constraints. The ER diagram is clear and comprehensive. Minor suggestion: consider adding more indexes for performance optimization.",
+    "submittedFiles": [
+      {
+        "id": "file2",
+        "name": "ecommerce_schema.sql",
+        "size": "1.2MB",
+        "type": "application/sql",
+        "uploadedAt": "2025-07-24T20:15:00Z",
+        "downloadUrl": "/api/files/download/file2"
+      },
+      {
+        "id": "file3",
+        "name": "design_document.pdf",
+        "size": "3.1MB",
+        "type": "application/pdf",
+        "uploadedAt": "2025-07-24T20:15:00Z",
+        "downloadUrl": "/api/files/download/file3"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "React Web Application",
+    "subject": "CS104",
+    "subjectName": "Web Development",
+    "description": "Build a full-stack web application using React, Node.js, and MongoDB. The application should include user authentication and CRUD operations.",
+    "instructions": "Submit source code, deployment instructions, and a demo video. Include unit tests and API documentation.",
+    "dueDate": "2025-08-10",
+    "dueTime": "23:59",
+    "maxMarks": 150,
+    "fileTypes": [".zip", ".tar.gz", ".pdf", ".mp4"],
+    "maxFileSize": "50MB",
+    "status": "pending",
+    "createdAt": "2025-07-25T11:00:00Z",
+    "professorName": "Dr. Wilson",
+    "rubric": [
+      {
+        "criteria": "Frontend Implementation",
+        "maxPoints": 40,
+        "description": "React components, UI/UX design, and responsiveness"
+      },
+      {
+        "criteria": "Backend Implementation",
+        "maxPoints": 40,
+        "description": "API design, database integration, and authentication"
+      },
+      {
+        "criteria": "Code Quality",
+        "maxPoints": 30,
+        "description": "Clean code, proper structure, and documentation"
+      },
+      {
+        "criteria": "Testing & Deployment",
+        "maxPoints": 25,
+        "description": "Unit tests, integration tests, and deployment guide"
+      },
+      {
+        "criteria": "Demo Video",
+        "maxPoints": 15,
+        "description": "Clear demonstration of all features"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Software Testing Report",
+    "subject": "CS105",
+    "subjectName": "Software Engineering",
+    "description": "Create a comprehensive testing strategy and execute test cases for a given software project.",
+    "instructions": "Include test plan, test cases, bug reports, and testing metrics. Use both manual and automated testing approaches.",
+    "dueDate": "2025-07-28",
+    "dueTime": "17:00",
+    "maxMarks": 80,
+    "fileTypes": [".pdf", ".xlsx", ".docx"],
+    "maxFileSize": "10MB",
+    "status": "overdue",
+    "createdAt": "2025-07-12T15:30:00Z",
+    "professorName": "Dr. Brown"
+  },
+  {
+    "id": "6",
+    "title": "Network Security Analysis",
+    "subject": "CS106",
+    "subjectName": "Computer Networks",
+    "description": "Analyze network vulnerabilities and propose security measures for a corporate network infrastructure.",
+    "instructions": "Include vulnerability assessment, risk analysis, and detailed security recommendations with implementation plans.",
+    "dueDate": "2025-08-12",
+    "dueTime": "23:59",
+    "maxMarks": 90,
+    "fileTypes": [".pdf", ".docx", ".pptx"],
+    "maxFileSize": "20MB",
+    "status": "pending",
+    "createdAt": "2025-07-28T09:15:00Z",
+    "professorName": "Dr. Garcia"
+  },
+  {
+    "id": "7",
+    "title": "Machine Learning Model",
+    "subject": "CS107",
+    "subjectName": "Artificial Intelligence",
+    "description": "Develop and train a machine learning model for image classification using deep learning techniques.",
+    "instructions": "Submit Python code, trained model, dataset analysis, and performance evaluation report.",
+    "dueDate": "2025-08-15",
+    "dueTime": "23:59",
+    "maxMarks": 110,
+    "fileTypes": [".py", ".ipynb", ".pdf", ".h5", ".pkl"],
+    "maxFileSize": "100MB",
+    "status": "pending",
+    "createdAt": "2025-07-30T10:00:00Z",
+    "professorName": "Dr. Chen"
+  }
+]
+
+// src/pages/Assignment/data/subjects.json
+[
+  {
+    "code": "CS101",
+    "name": "Data Structures",
+    "semester": "5",
+    "credits": 4
+  },
+  {
+    "code": "CS102",
+    "name": "Algorithm Design",
+    "semester": "5",
+    "credits": 3
+  },
+  {
+    "code": "CS103",
+    "name": "Database Systems",
+    "semester": "5",
+    "credits": 4
+  },
+  {
+    "code": "CS104",
+    "name": "Web Development",
+    "semester": "5",
+    "credits": 3
+  },
+  {
+    "code": "CS105",
+    "name": "Software Engineering",
+    "semester": "5",
+    "credits": 4
+  },
+  {
+    "code": "CS106",
+    "name": "Computer Networks",
+    "semester": "5",
+    "credits": 3
+  },
+  {
+    "code": "CS107",
+    "name": "Artificial Intelligence",
+    "semester": "6",
+    "credits": 4
+  },
+  {
+    "code": "CS108",
+    "name": "Operating Systems",
+    "semester": "6",
+    "credits": 4
+  },
+  {
+    "code": "CS109",
+    "name": "Computer Graphics",
+    "semester": "6",
+    "credits": 3
+  },
+  {
+    "code": "CS110",
+    "name": "Distributed Systems",
+    "semester": "7",
+    "credits": 4
+  }
+]
+
+// src/pages/Assignment/data/constants.json
+{
+  "fileTypes": {
+    "documents": [".pdf", ".doc", ".docx", ".txt", ".rtf"],
+    "code": [".java", ".cpp", ".c", ".py", ".js", ".ts", ".html", ".css", ".sql"],
+    "archives": [".zip", ".tar.gz", ".rar", ".7z"],
+    "images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg"],
+    "videos": [".mp4", ".avi", ".mov", ".wmv", ".flv"],
+    "spreadsheets": [".xlsx", ".xls", ".csv"],
+    "presentations": [".pptx", ".ppt"],
+    "models": [".h5", ".pkl", ".joblib", ".model"],
+    "notebooks": [".ipynb"]
+  },
+  "maxFileSizes": {
+    "small": "5MB",
+    "medium": "10MB",
+    "large": "20MB",
+    "xlarge": "50MB",
+    "xxlarge": "100MB"
+  },
+  "assignmentStatuses": {
+    "pending": {
+      "label": "Pending",
+      "color": "orange",
+      "description": "Assignment is not yet submitted"
+    },
+    "submitted": {
+      "label": "Submitted",
+      "color": "blue",
+      "description": "Assignment has been submitted for review"
+    },
+    "graded": {
+      "label": "Graded",
+      "color": "green",
+      "description": "Assignment has been graded and feedback provided"
+    },
+    "overdue": {
+      "label": "Overdue",
+      "color": "red",
+      "description": "Assignment submission deadline has passed"
+    }
+  },
+  "gradeRanges": {
+    "excellent": { "min": 90, "max": 100, "label": "Excellent", "color": "green" },
+    "good": { "min": 80, "max": 89, "label": "Good", "color": "blue" },
+    "satisfactory": { "min": 70, "max": 79, "label": "Satisfactory", "color": "yellow" },
+    "needsImprovement": { "min": 60, "max": 69, "label": "Needs Improvement", "color": "orange" },
+    "poor": { "min": 0, "max": 59, "label": "Poor", "color": "red" }
+  },
+  "validationRules": {
+    "maxFilesPerSubmission": 10,
+    "allowedFileSize": 104857600,
+    "minFileNameLength": 1,
+    "maxFileNameLength": 255,
+    "maxCommentLength": 1000
+  }
+}
+
+// src/pages/Assignment/data/sampleSubmissions.json
+[
+  {
+    "assignmentId": "2",
+    "submissionId": "sub_001",
+    "studentId": "ENR001",
+    "submittedAt": "2025-07-30T14:30:00Z",
+    "status": "submitted",
+    "files": [
+      {
+        "id": "file1",
+        "originalName": "sorting_analysis.pdf",
+        "storedName": "sub_001_file1.pdf",
+        "size": 2359296,
+        "type": "application/pdf",
+        "uploadedAt": "2025-07-30T14:30:00Z",
+        "downloadUrl": "/api/files/download/file1"
+      }
+    ],
+    "comments": "This report includes detailed analysis of 6 sorting algorithms with performance graphs and complexity analysis.",
+    "ipAddress": "192.168.1.100",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "assignmentId": "3",
+    "submissionId": "sub_002",
+    "studentId": "ENR001",
+    "submittedAt": "2025-07-24T20:15:00Z",
+    "status": "graded",
+    "grade": 95,
+    "feedback": "Excellent work! The database design is well-normalized and includes all necessary constraints.",
+    "gradedAt": "2025-07-26T10:30:00Z",
+    "gradedBy": "Dr. Davis",
+    "files": [
+      {
+        "id": "file2",
+        "originalName": "ecommerce_schema.sql",
+        "storedName": "sub_002_file1.sql",
+        "size": 1258291,
+        "type": "application/sql",
+        "uploadedAt": "2025-07-24T20:15:00Z",
+        "downloadUrl": "/api/files/download/file2"
+      },
+      {
+        "id": "file3",
+        "originalName": "design_document.pdf",
+        "storedName": "sub_002_file2.pdf",
+        "size": 3251200,
+        "type": "application/pdf",
+        "uploadedAt": "2025-07-24T20:15:00Z",
+        "downloadUrl": "/api/files/download/file3"
+      }
+    ],
+    "comments": "Attached SQL schema file contains all table definitions, constraints, and sample data. The PDF document explains the design decisions and includes the ER diagram."
+  }
+]
+
+// src/pages/Assignment/data/rubrics.json
+{
+  "programming": [
+    {
+      "criteria": "Code Quality",
+      "maxPoints": 25,
+      "description": "Clean, readable, and well-structured code with proper naming conventions"
+    },
+    {
+      "criteria": "Functionality",
+      "maxPoints": 35,
+      "description": "Code runs without errors and meets all specified requirements"
+    },
+    {
+      "criteria": "Testing",
+      "maxPoints": 20,
+      "description": "Comprehensive test cases covering edge cases and normal scenarios"
+    },
+    {
+      "criteria": "Documentation",
+      "maxPoints": 15,
+      "description": "Clear comments, README file, and code documentation"
+    },
+    {
+      "criteria": "Innovation",
+      "maxPoints": 5,
+      "description": "Creative solutions and additional features beyond requirements"
+    }
+  ],
+  "research": [
+    {
+      "criteria": "Content Quality",
+      "maxPoints": 40,
+      "description": "Accurate, relevant, and comprehensive content with proper depth"
+    },
+    {
+      "criteria": "Research & Sources",
+      "maxPoints": 25,
+      "description": "Use of credible sources and proper citation methodology"
+    },
+    {
+      "criteria": "Analysis & Critical Thinking",
+      "maxPoints": 20,
+      "description": "Demonstrates analytical thinking and draws meaningful conclusions"
+    },
+    {
+      "criteria": "Organization & Structure",
+      "maxPoints": 10,
+      "description": "Logical flow, clear structure, and proper formatting"
+    },
+    {
+      "criteria": "Writing Quality",
+      "maxPoints": 5,
+      "description": "Grammar, spelling, and professional writing style"
+    }
+  ],
+  "project": [
+    {
+      "criteria": "Requirements Fulfillment",
+      "maxPoints": 30,
+      "description": "Project meets all specified requirements and objectives"
+    },
+    {
+      "criteria": "Technical Implementation",
+      "maxPoints": 30,
+      "description": "Proper use of technologies and implementation quality"
+    },
+    {
+      "criteria": "User Experience",
+      "maxPoints": 15,
+      "description": "Intuitive interface and good user experience design"
+    },
+    {
+      "criteria": "Testing & Quality Assurance",
+      "maxPoints": 15,
+      "description": "Thorough testing and bug-free implementation"
+    },
+    {
+      "criteria": "Documentation & Presentation",
+      "maxPoints": 10,
+      "description": "Clear documentation and effective project presentation"
+    }
+  ]
+}
