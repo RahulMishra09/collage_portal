@@ -1,0 +1,9 @@
+[
+  {"name": "Design Analysis & Algorithm", "attendance": 92, "courseId": 101},
+  {"name": "IoT Architecture", "attendance": 88, "courseId": 102},
+  {"name": "PBL", "attendance": 95, "courseId": 103},
+  {"name": "Sensor & Microcontroller", "attendance": 85, "courseId": 104},
+  {"name": "Geography", "attendance": 89, "courseId": 105},
+  {"name": "AIML", "attendance": 72, "courseId": 106},
+  {"name": "Music", "attendance": 91, "courseId": 107}
+] 

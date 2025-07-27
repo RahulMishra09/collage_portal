@@ -1,0 +1,7 @@
+[
+  {"courseName": "Introduction to Programming", "courseNumber": "CS101", "description": "Learn the basics of programming with Python.", "selected": false, "credits": 4},
+  {"courseName": "Data Structures", "courseNumber": "CS102", "description": "Explore fundamental data structures in computer science.", "selected": false, "credits": 4},
+  {"courseName": "Algorithms", "courseNumber": "CS103", "description": "Analyze and design efficient algorithms.", "selected": false, "credits": 3},
+  {"courseName": "Database Systems", "courseNumber": "CS104", "description": "Understand database design and SQL.", "selected": false, "credits": 3},
+  {"courseName": "Operating Systems", "courseNumber": "CS105", "description": "Learn the fundamentals of modern operating systems.", "selected": false, "credits": 2}
+] 

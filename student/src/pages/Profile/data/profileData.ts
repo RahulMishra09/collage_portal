@@ -1,0 +1,17 @@
+import type { ProfileDataType } from '../models';
+
+export const fallbackProfileData: ProfileDataType = {
+  name: 'John Doe',
+  registrationNumber: 'REG123456789',
+  semester: '5th',
+  branch: 'Computer Science',
+  program: 'B.Tech',
+  year: '3rd',
+  gender: 'Male',
+  phone: '+91 9876543210',
+  email: 'john.doe@example.com',
+  classCoordinator: 'Dr. Jane Smith',
+  cgpa: '8.75',
+  attendance: '92%',
+  campus: 'Main Campus',
+}; 

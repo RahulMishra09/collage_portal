@@ -1,0 +1,29 @@
+[
+  {
+    "exam_id": 1,
+    "course_id": "CS301",
+    "course_name": "Design Analysis & Algorithm",
+    "exam_type": "Midterm",
+    "exam_date": "2023-05-15",
+    "location": "Room 101",
+    "total_marks": 100
+  },
+  {
+    "exam_id": 2,
+    "course_id": "IOT202",
+    "course_name": "IoT Architecture",
+    "exam_type": "Quiz",
+    "exam_date": "2023-05-18",
+    "location": "Room 102",
+    "total_marks": 20
+  },
+  {
+    "exam_id": 3,
+    "course_id": "AI301",
+    "course_name": "AIML",
+    "exam_type": "Final",
+    "exam_date": "2023-06-01",
+    "location": "Room 201",
+    "total_marks": 100
+  }
+] 

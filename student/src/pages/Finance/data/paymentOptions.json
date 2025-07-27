@@ -1,0 +1,5 @@
+[
+  { "title": "Full Payment", "buttonColor": "bg-green-500" },
+  { "title": "Installment Plan", "buttonColor": "bg-blue-500" },
+  { "title": "Scholarship", "buttonColor": "bg-yellow-500" }
+] 

@@ -1,0 +1,10 @@
+{
+  "tuitionFees": [
+    { "item": "Semester Fee", "amount": 120000 },
+    { "item": "Library Fee", "amount": 2000 }
+  ],
+  "additionalCharges": [
+    { "item": "Hostel Fee", "amount": 50000 },
+    { "item": "Mess Fee", "amount": 30000 }
+  ]
+} 

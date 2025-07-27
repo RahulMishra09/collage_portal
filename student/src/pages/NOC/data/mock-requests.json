@@ -1,0 +1,27 @@
+[
+  {
+    "id": "NOC-2024-A1B2C3",
+    "type": "Employment",
+    "purpose": "Software Developer at TechCorp",
+    "status": "approved",
+    "submittedDate": "2024-01-15",
+    "approvedDate": "2024-01-18"
+  },
+  {
+    "id": "NOC-2024-D4E5F6",
+    "type": "Higher Education",
+    "purpose": "MS in Computer Science",
+    "status": "pending",
+    "submittedDate": "2024-01-20",
+    "approvedDate": null
+  },
+  {
+    "id": "NOC-2024-G7H8I9",
+    "type": "Internship",
+    "purpose": "Summer Internship at StartupXYZ",
+    "status": "rejected",
+    "submittedDate": "2024-01-10",
+    "approvedDate": null,
+    "rejectionReason": "Incomplete documentation"
+  }
+]

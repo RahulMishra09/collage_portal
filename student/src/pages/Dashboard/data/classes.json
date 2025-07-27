@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Design Analysis & Algorithm",
+    "time": "09:00 - 10:30",
+    "color": "#FF6384",
+    "location": "Room 101",
+    "mode": "Offline"
+  },
+  {
+    "name": "IoT Architecture",
+    "time": "10:45 - 12:15",
+    "color": "#36A2EB",
+    "location": "Room 102",
+    "mode": "Online"
+  },
+  {
+    "name": "PBL",
+    "time": "13:00 - 14:30",
+    "color": "#FFCE56",
+    "location": "Room 103",
+    "mode": "Offline"
+  }
+] 

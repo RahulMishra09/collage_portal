@@ -1,0 +1,79 @@
+[
+  {
+    "serialNo": 1,
+    "name": "Design Analysis & Algorithm",
+    "code": "CS301",
+    "section": "A",
+    "batch": "2023",
+    "presentNo": 23,
+    "absentNo": 2,
+    "totalClasses": 25,
+    "percentage": 92
+  },
+  {
+    "serialNo": 2,
+    "name": "IoT Architecture",
+    "code": "IOT202",
+    "section": "B",
+    "batch": "2023",
+    "presentNo": 22,
+    "absentNo": 3,
+    "totalClasses": 25,
+    "percentage": 88
+  },
+  {
+    "serialNo": 3,
+    "name": "PBL",
+    "code": "PBL101",
+    "section": "A",
+    "batch": "2023",
+    "presentNo": 19,
+    "absentNo": 1,
+    "totalClasses": 20,
+    "percentage": 95
+  },
+  {
+    "serialNo": 4,
+    "name": "Sensor & Microcontroller",
+    "code": "EC205",
+    "section": "C",
+    "batch": "2023",
+    "presentNo": 17,
+    "absentNo": 3,
+    "totalClasses": 20,
+    "percentage": 85
+  },
+  {
+    "serialNo": 5,
+    "name": "Geography",
+    "code": "GEO101",
+    "section": "A",
+    "batch": "2023",
+    "presentNo": 16,
+    "absentNo": 2,
+    "totalClasses": 18,
+    "percentage": 89
+  },
+  {
+    "serialNo": 6,
+    "name": "AIML",
+    "code": "AI301",
+    "section": "B",
+    "batch": "2023",
+    "presentNo": 18,
+    "absentNo": 7,
+    "totalClasses": 25,
+    "percentage": 72
+  },
+  {
+    "serialNo": 7,
+    "name": "Music",
+    "code": "MUS101",
+    "section": "A",
+    "batch": "2023",
+    "presentNo": 20,
+    "absentNo": 2,
+    "totalClasses": 22,
+    "percentage": 91
+  }
+] 

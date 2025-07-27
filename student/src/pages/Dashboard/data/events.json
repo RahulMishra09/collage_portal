@@ -1,0 +1,23 @@
+[
+  {
+    "id": "event-1",
+    "title": "Guest Lecture: AI in Healthcare",
+    "date": "2023-05-10",
+    "time": "15:00",
+    "location": "Auditorium"
+  },
+  {
+    "id": "event-2",
+    "title": "Coding Competition",
+    "date": "2023-05-12",
+    "time": "10:00",
+    "location": "Lab 1"
+  },
+  {
+    "id": "event-3",
+    "title": "Project Expo",
+    "date": "2023-05-15",
+    "time": "11:00",
+    "location": "Exhibition Hall"
+  }
+] 
